@@ -11,7 +11,7 @@
 - [Styled Components](https://styled-components.com/)
   
 
-## 🙇 Author
+## 🙇 Maintainers
 #### Arjun Shrivastava
 - LinkedIn: [@geekyarjunshrivastava](https://www.linkedin.com/in/geekyarjunshrivastava/)
 - Github: [@geekyarjun](https://github.com/geekyarjun)
